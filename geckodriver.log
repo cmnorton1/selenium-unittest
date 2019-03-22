@@ -1,0 +1,941 @@
+1553270016922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7USQQfCCfxu0"
+1553270017199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270017199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270017199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270018126	Marionette	INFO	Listening on port 34407
+1553270018226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553270240424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DecNAVgC8smI"
+1553270240845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270240845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270240845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270243000	Marionette	INFO	Listening on port 35215
+1553270243060	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18840, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18840, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553270392251	Marionette	INFO	Stopped listening on port 35215
+1553270494273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m1cy3Aacg7wg"
+1553270494828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270494829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270494829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270496886	Marionette	INFO	Listening on port 38397
+1553270496977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270602856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HyjVbXkNs4Xz"
+1553270603181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270603181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270603181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270604085	Marionette	INFO	Listening on port 36583
+1553270604161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270606280	Marionette	INFO	Stopped listening on port 36583
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 19662, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1553270733980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hPaLRJszS9uj"
+1553270734263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270734264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270734264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270735117	Marionette	INFO	Listening on port 43111
+1553270735188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270736756	Marionette	INFO	Stopped listening on port 43111
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 20023, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19297, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19297, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553270749004	Marionette	INFO	Stopped listening on port 38397
+1553270753355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HPO6K1YgaWH9"
+1553270753661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270753662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270753662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270756052	Marionette	INFO	Listening on port 36105
+1553270756066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270757323	Marionette	INFO	Stopped listening on port 36105
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 20401, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553270905175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nZnoxyei0ATB"
+1553270905457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270905458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270905458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270906363	Marionette	INFO	Listening on port 39207
+1553270906381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270909220	Marionette	INFO	Stopped listening on port 39207
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 20810, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553270910605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S1UGCnZR1zmm"
+1553270910892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270910892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270910892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270911782	Marionette	INFO	Listening on port 42559
+1553270911812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270912837	Marionette	INFO	Stopped listening on port 42559
+[Parent 21199, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21199, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+1553270991454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gB3e2sZwHtNb"
+1553270991740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270991741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270991741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270992625	Marionette	INFO	Listening on port 45319
+1553270992670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270994129	Marionette	INFO	Stopped listening on port 45319
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 21502, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553270995500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DnRyU91Dqf8Y"
+1553270995782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553270995782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553270995782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553270996631	Marionette	INFO	Listening on port 41561
+1553270996705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553270997755	Marionette	INFO	Stopped listening on port 41561
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 21871, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271041379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cQN59tA5gBRA"
+1553271041656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271041657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271041657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271042666	Marionette	INFO	Listening on port 46161
+1553271042683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271044207	Marionette	INFO	Stopped listening on port 46161
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22317, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22317, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271045575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0HUgdufwUhjg"
+1553271045866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271045866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271045866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271046762	Marionette	INFO	Listening on port 37379
+1553271046782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271048073	Marionette	INFO	Stopped listening on port 37379
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 22683, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271069014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6eK1RzL5eZy1"
+1553271069294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271069294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271069294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271070124	Marionette	INFO	Listening on port 45575
+1553271070222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271071416	Marionette	INFO	Stopped listening on port 45575
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23039, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23039, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271072786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RL6dFX9uleBA"
+1553271073071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271073071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271073071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271073925	Marionette	INFO	Listening on port 46415
+1553271074001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271075073	Marionette	INFO	Stopped listening on port 46415
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23385, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271092781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CmXINa0Z9Qmv"
+1553271093059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271093059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271093059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271093938	Marionette	INFO	Listening on port 40647
+1553271093984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271095131	Marionette	INFO	Stopped listening on port 40647
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23759, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271096504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c65WGVuLrRRv"
+1553271096796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271096796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271096796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271097625	Marionette	INFO	Listening on port 41863
+1553271097709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553271103778	Marionette	INFO	Stopped listening on port 41863
+[Parent 24114, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271125079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a22os0T6wRx2"
+1553271125369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271125370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271125370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271126207	Marionette	INFO	Listening on port 46799
+1553271126282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271127524	Marionette	INFO	Stopped listening on port 46799
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24490, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24490, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271129897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gp1S5BBRaZ5q"
+1553271130182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271130182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271130182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271131049	Marionette	INFO	Listening on port 37223
+1553271131108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553271133132	Marionette	INFO	Stopped listening on port 37223
+[Parent 24839, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553271992200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jZ09SNUqU5OT"
+1553271992481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271992481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271992481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553271993381	Marionette	INFO	Listening on port 35601
+1553271993423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553271997543	Marionette	INFO	Stopped listening on port 35601
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 26477, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553271998913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SGAVjTgYxvur"
+1553271999196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553271999196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553271999196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272000084	Marionette	INFO	Listening on port 36713
+1553272000125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272001219	Marionette	INFO	Stopped listening on port 36713
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 26828, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272002596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3pYYldPjcro1"
+1553272002899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272002899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272002899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272003804	Marionette	INFO	Listening on port 34145
+1553272003902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272006000	Marionette	INFO	Stopped listening on port 34145
+[Parent 27183, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272027314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b36020S8wcAH"
+1553272027608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272027608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272027608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272028545	Marionette	INFO	Listening on port 45479
+1553272028619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272029705	Marionette	INFO	Stopped listening on port 45479
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27555, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272031075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T5uoAXxdFYcs"
+1553272031367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272031367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272031367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272032278	Marionette	INFO	Listening on port 46519
+1553272032381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272033484	Marionette	INFO	Stopped listening on port 46519
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27922, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272035557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kvQK40uLh2TM"
+1553272035845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272035845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272035845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272036779	Marionette	INFO	Listening on port 43457
+1553272036863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272039991	Marionette	INFO	Stopped listening on port 43457
+[Parent 28269, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272053520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ug6EnmJROuUF"
+1553272053797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272053797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272053797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272054684	Marionette	INFO	Listening on port 35993
+1553272054741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272055872	Marionette	INFO	Stopped listening on port 35993
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 28656, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272057243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KTMnZzjwdBJo"
+1553272057532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272057533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272057533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272058488	Marionette	INFO	Listening on port 34383
+1553272058550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272059658	Marionette	INFO	Stopped listening on port 34383
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 29017, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272061035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fn2KqPgLJ1cn"
+1553272061327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272061327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272061328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272062230	Marionette	INFO	Listening on port 45687
+1553272062241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272064397	Marionette	INFO	Stopped listening on port 45687
+[Parent 29382, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272089560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u1wrQi4bDyHI"
+1553272089838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272089839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272089839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272090684	Marionette	INFO	Listening on port 33571
+1553272090764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272091865	Marionette	INFO	Stopped listening on port 33571
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 29778, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 29778, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272093240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fmpVaXSQouWd"
+1553272093536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272093536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272093536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272094431	Marionette	INFO	Listening on port 33021
+1553272094451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272097533	Marionette	INFO	Stopped listening on port 33021
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 30143, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272098905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KenZqkKFvmUx"
+1553272099194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272099194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272099194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272100075	Marionette	INFO	Listening on port 43851
+1553272100119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272102433	Marionette	INFO	Stopped listening on port 43851
+1553272150462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BLl1npLV1YDe"
+1553272150743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272150743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272150743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272151726	Marionette	INFO	Listening on port 38159
+1553272151775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272153201	Marionette	INFO	Stopped listening on port 38159
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 30917, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 30917, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272154570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L33QssvX35ym"
+1553272154857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272154857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272154857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272155759	Marionette	INFO	Listening on port 36601
+1553272155776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272157928	Marionette	INFO	Stopped listening on port 36601
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 31270, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31270, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272159310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lTQ0wz71aKPY"
+1553272159599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272159599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272159599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272160476	Marionette	INFO	Listening on port 43225
+1553272160514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272162649	Marionette	INFO	Stopped listening on port 43225
+[Child 31795, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31795, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31795, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31795, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31795, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31795, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31633, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272250921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ac6bJQRu5TO0"
+1553272251208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272251209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272251209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272252094	Marionette	INFO	Listening on port 33325
+1553272252131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272253609	Marionette	INFO	Stopped listening on port 33325
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 32074, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32074, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272254982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NdauM2F8QK5g"
+1553272255264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272255264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272255264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272256126	Marionette	INFO	Listening on port 46273
+1553272256190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272260294	Marionette	INFO	Stopped listening on port 46273
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 32422, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272261670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ajYPb53wt86y"
+1553272261952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272261952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272261952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272262846	Marionette	INFO	Listening on port 45739
+1553272262878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272264894	Marionette	INFO	Stopped listening on port 45739
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 32767, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272300731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DuEDFM84jCwq"
+1553272301006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272301006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272301006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272301847	Marionette	INFO	Listening on port 35133
+1553272301935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272302904	Marionette	INFO	Stopped listening on port 35133
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 708, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272304273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VnRBuVMGdScb"
+1553272304561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272304561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272304561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272305549	Marionette	INFO	Listening on port 38503
+1553272305577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272307638	Marionette	INFO	Stopped listening on port 38503
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 1099, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272309015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9lBs5G1jxfBj"
+1553272309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272310206	Marionette	INFO	Listening on port 35955
+1553272310227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272313351	Marionette	INFO	Stopped listening on port 35955
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 1559, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272342639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LvxgXhg8hLIU"
+1553272342922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272342923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272342923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272343786	Marionette	INFO	Listening on port 41131
+1553272343847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272345215	Marionette	INFO	Stopped listening on port 41131
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 2008, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272346587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3sy31laCRDVg"
+1553272346884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272346884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272346884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272347761	Marionette	INFO	Listening on port 43941
+1553272347793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272348775	Marionette	INFO	Stopped listening on port 43941
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 2380, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272350141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bAXtg9svoloe"
+1553272350426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272350426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272350426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272351324	Marionette	INFO	Listening on port 44309
+1553272351349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272352518	Marionette	INFO	Stopped listening on port 44309
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 2859, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2859, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272369914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tINJ3Co5UTZO"
+1553272370204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272370204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272370204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272371073	Marionette	INFO	Listening on port 33551
+1553272371131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272373250	Marionette	INFO	Stopped listening on port 33551
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 3240, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3240, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272374626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CdS7kSDkR0vs"
+1553272374913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272374914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272374914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272375904	Marionette	INFO	Listening on port 35019
+1553272375940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272378917	Marionette	INFO	Stopped listening on port 35019
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 3616, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272380392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hGZ9NSseQvXy"
+1553272380680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272380680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272380680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272381586	Marionette	INFO	Listening on port 46657
+1553272381601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272384690	Marionette	INFO	Stopped listening on port 46657
+[Parent 3965, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272467431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.niABkHnIO9XO"
+1553272467716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272467716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272467716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272468593	Marionette	INFO	Listening on port 45753
+1553272468642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272470148	Marionette	INFO	Stopped listening on port 45753
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 4374, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 4374, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272471620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vaAytyafdQUP"
+1553272471908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272471909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272471909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272472791	Marionette	INFO	Listening on port 33511
+1553272472834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272475801	Marionette	INFO	Stopped listening on port 33511
+[Parent 4722, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272477166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g4IjaYD6MGVC"
+1553272477448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272477448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272477448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272478320	Marionette	INFO	Listening on port 34649
+1553272478379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272483493	Marionette	INFO	Stopped listening on port 34649
+[Parent 5087, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272517478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uvUZ0QAAXNec"
+1553272517769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272517769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272517769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272518681	Marionette	INFO	Listening on port 40719
+1553272518782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272520168	Marionette	INFO	Stopped listening on port 40719
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 5469, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272521539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XF9vUQcxVqJ8"
+1553272521827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272521828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272521828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272522712	Marionette	INFO	Listening on port 43729
+1553272522766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272526451	Marionette	INFO	Stopped listening on port 43729
+[Parent 5842, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272526814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LI4JYyXRpDc7"
+1553272527093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272527093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272527093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272528012	Marionette	INFO	Listening on port 38907
+1553272528022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272532293	Marionette	INFO	Stopped listening on port 38907
+[Parent 6203, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1553272579487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ppKTcIbZY03u"
+1553272579766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272579767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272579767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272580657	Marionette	INFO	Listening on port 45389
+1553272580693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272584060	Marionette	INFO	Stopped listening on port 45389
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 6572, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272585423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PTokG5iwFZh1"
+1553272585711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272585712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272585712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272586621	Marionette	INFO	Listening on port 46817
+1553272586641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272589747	Marionette	INFO	Stopped listening on port 46817
+[Parent 6931, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272591111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HfXvPN9aRgiz"
+1553272591395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272591395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272591396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272592273	Marionette	INFO	Listening on port 36523
+1553272592316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272595485	Marionette	INFO	Stopped listening on port 36523
+[Parent 7293, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272706410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8Fcd9ffO3fa0"
+1553272706708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272706708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272706708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272707652	Marionette	INFO	Listening on port 40043
+1553272707725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272709019	Marionette	INFO	Stopped listening on port 40043
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 8838, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272710984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.muzDPSazggOs"
+1553272711278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272711278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272711278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272712239	Marionette	INFO	Listening on port 33819
+1553272712289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272717347	Marionette	INFO	Stopped listening on port 33819
+[Parent 9227, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272718704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.99ixgRVBpVJH"
+1553272719002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272719002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272719002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272720040	Marionette	INFO	Listening on port 43437
+1553272720119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272725013	Marionette	INFO	Stopped listening on port 43437
+[Parent 9669, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272869508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MvAg8cfadbb6"
+1553272869834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272869834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272869834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272871046	Marionette	INFO	Listening on port 34741
+1553272871113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272872656	Marionette	INFO	Stopped listening on port 34741
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 10400, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272874136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l3a7MwW6WGw9"
+1553272874456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272874456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272874456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272875594	Marionette	INFO	Listening on port 43259
+1553272875649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272878807	Marionette	INFO	Stopped listening on port 43259
+[Parent 10876, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553272880175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5XWJi0UorIPZ"
+1553272880513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553272880514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553272880514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553272881586	Marionette	INFO	Listening on port 45189
+1553272881694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553272885765	Marionette	INFO	Stopped listening on port 45189
+[Parent 11355, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+(/usr/lib/firefox/firefox:7664): dconf-WARNING **: 11:43:59.604: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://cdn.funcaptcha.com/fc/js/040f205971c2795d6834fd21f2f69772/standard/game_bootstrap.js, line 2: NS_ERROR_FAILURE: 
